@@ -38,5 +38,4 @@ const isValidUrl = (longUrl) => {
     return regex
 }
 
-
 module.exports = { isValidBody, isValidFullName, isValidEmail, isValidMobile, isValidAbvr, isValidUrl };
